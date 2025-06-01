@@ -1,4 +1,3 @@
-# new-weather-app
 # Weather App
 
 A simple Node.js CLI application to fetch current weather and 5-day forecasts for any city using the Open-Meteo API.
@@ -13,3 +12,11 @@ A simple Node.js CLI application to fetch current weather and 5-day forecasts fo
 - Easy-to-use command line interface (CLI).
 
 ---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/weather-app.git
+cd weather-app

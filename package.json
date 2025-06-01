@@ -1,0 +1,16 @@
+{
+  "name": "new-weather-app-2",
+  "version": "1.0.0",
+  "main": "weather.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["weather", "cli", "web", "forecast", "open-meteo", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "description": "A Node.js CLI and web app for fetching current weather and 5-day forecasts for any city using the Open-Meteo API.",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch": "^2.7.0"
+  }
+}
